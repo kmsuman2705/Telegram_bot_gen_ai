@@ -37,3 +37,14 @@ pip install -r requirements.txt
 ### Aiogram docs
 
 https://docs.aiogram.dev/en/latest/
+
+## telegram Setup:
+
+1. Search for bot father
+2. /newbot
+
+- mybotsuman88
+- mybotsuman88_bot
+
+* Now click on url to access the bot
+* Make sure access token
